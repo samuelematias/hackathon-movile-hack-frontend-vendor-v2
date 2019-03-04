@@ -1,1 +1,1 @@
-# hackathon-movile-hack-frontend-vendor-v2
+# react-native-template-sebas-boilerplate-basic
